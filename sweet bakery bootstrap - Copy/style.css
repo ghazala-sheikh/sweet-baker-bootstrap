@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+}
+
+    
+    
+
+
+
+
+
+.content{
+    height: 500px;
+    width: 100%;
+    
+}
+.heading{
+    text-align: center;
+    
+    
+    
+}
+.content1{
+    
+    height: 400px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.card-title{
+    text-align: center;
+}
+.price{
+    
+    margin:auto;
+    height: 300px;
+    width:800px;
+}
+.border-bottom{
+    border-bottom: 2px groove;
+}
+.center{
+    text-align: center;
+}
